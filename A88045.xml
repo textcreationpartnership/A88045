@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Right Honourable Thomas Alyn Lord Mayor of the City of London sent to him from the committee appointed to disperse the general remonstrance and protestation of the 16th of November last, into the several cities and conuties [sic] of England and Wales, to be by him communicated to the aldermen, and Common-Council of the said City.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88045</idno>
+            <idno type="STC">Wing L1750</idno>
+            <idno type="STC">Thomason 669.f.22[16]</idno>
+            <idno type="STC">ESTC R211360</idno>
+            <idno type="EEBO-CITATION">99870090</idno>
+            <idno type="PROQUEST">99870090</idno>
+            <idno type="VID">163599</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163599)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f22[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Right Honourable Thomas Alyn Lord Mayor of the City of London sent to him from the committee appointed to disperse the general remonstrance and protestation of the 16th of November last, into the several cities and conuties [sic] of England and Wales, to be by him communicated to the aldermen, and Common-Council of the said City.</title>
+                  <author>England and Wales. Parliament. Committee appointed to Disperse the General Remonstrance and Protestation.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "xber [i.e. December]. 9. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alleyne, Thomas, --  Sir, fl. 1660.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:163599:1" rendition="simple:additions"/>
+            <head>A Letter to the Right Honourable THOMAS ALYN Lord Mayor of The City of London, ſent to him from the Committee appointed To Disperſe The General Remonſtrance and Proteſtation of the 16<hi rend="sup">th</hi> of November laſt, into the Several Cities and Conuties of ENGLAND and WALES, To be by him Communicated to the Aldermen, and Common-Councel of the ſaid City.</head>
+            <opener>
+               <dateline>
+                  <date>December 6th 1659.</date> At the Committee appointed to diſperſe the General <hi>Remonſtrance</hi> and <hi>Proteſtation,</hi> into the ſeveral Cities and Counties of <hi>England</hi> and <hi>Wales.</hi>
+               </dateline>
+               <lb/>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>WE being appointed by lawful Authority, to diſperſe the General <hi>Remonſtrance</hi> and <hi>Proteſtation</hi> as aforeſaid, have thought good hereby, to direct the ſame here encloſed to your Lordſhip, deſiring you to communicate the ſame to the reſt of your Brethren the Worſhipful Aldermen, and together with them, to the Court of Common-Council of the City of <hi>London;</hi> and to do therein, as by the printed Letter herein alſo encloſed, or as by the Remonſtrance it ſelf is directed, or otherwiſe, as to Your and their Grave wiſdoms ſhall ſeem moſt meet. We very well know that your Lordſhip, and the Aldermen, with the Court of Com<g ref="char:EOLhyphen"/>mon-Council, are really ſencible of the great and miſerable diſtractions, and confuſion the three Nations are at preſent almoſt over<g ref="char:EOLhyphen"/>whelmed with, and of the ſudden and great decay of Trade by reaſon thereof; but eſpecially of that ſad and miſerable diſtraction, and confuſion which happened in this famous City on <hi>Munday</hi> the 5th inſtant, and of the ſeveral notorious Murders then Committed: all which, we conceive, have been of late cheifly occaſioned by the interruption of the Parliament, the <hi>13th</hi> of <hi>Oct.</hi> laſt; and alſo, that the &amp; diſtractiaons &amp; decay of Trade, is like to grow every day worſe and worſe, unleſſe ſome ſpeedy way &amp; means be found out, to put a ſtop to the Torrent of the Rampant Sword, that ſo the Parliament may again return with ſafety, to the free exerciſe &amp; diſcharge of their truſt in ſettling the Government of theſe Nations, upon true &amp; ſure Foundations of a Free State &amp; Common-wealth; by which all the good people of theſe Nations, both as men and Chriſtians, may enjoy their Common and equal Rights and Freedoms, both in their Perſons and Eſtates, which undoubtedly is, and will be, the only, ſpeedieſt, and moſt probable way and means, for a full and free Trade once more to flouriſh in theſe Nations, to the encouragement of all Art, labour and induſtry, the only Glory and Sinews of a good &amp; well or<g ref="char:EOLhyphen"/>dered Common-wealth. And to the end no doubt may remain in your Lordſhip, whether the ſaid Parliament be the lawful Supream Le<g ref="char:EOLhyphen"/>giſlative Authority of theſe Nations, be pleaſed for your better information therein, to read the Statute of the 16 <hi>Cor.</hi> 7. whereby it is declared and enacted, That this Parliament ſhall not be diſſolved, prorogued, or adjourned, but by Act of Parliament to be paſt for that purpoſe, nor ſhall at any time or times be adjourned, unleſs it be by themſelves or by their own order; And that all and every thing, and things whatſoever, done or to be done for the adjourning, proroguing or diſſolving the ſaid Parliament contrary to the ſaid Act, ſhall be utterly void, and of no effect; By which, as alſo by the ſeveral reaſons and grounds for the making the ſaid Act declared in the preamble thereof, together with the Parliaments anſwer to the Kings Letter of the third of <hi>March</hi> 43, Printed in the Booke of Collections of publick Orders, and Ordinances, <hi>&amp;c.</hi> fol. 451, by which with the advice and concurent conſent of the Com<g ref="char:EOLhyphen"/>miſſioners of <hi>Scotland,</hi> for the better ſolution of the ſaid queſtion, the PARLIAMENT told the KING, That they were bound to let him know, that they were called together according to the known FUNDAMENTAL LAWS of the Nation, and their continuance ſettled and eſtabliſhed by a Law, and therefore they were bound in duty, and accordingly did then reſolve with their lives and fortunes to preſerve and defend the juſt Rights and Authority of this Parliament, and likewiſe by ſeverall other arguments and reaſons, very fully and learnedly ſet forth and printed in the ſame and other books, your Lordſhip may and will fully and clearly underſtand, that notwithſtanding all or any of the ſeclutions and interruptions they have or ſhall at any time meet withall, yet ſo long as the ſaid Act ſtands unrepeall'd, and that a <hi>Quorom</hi> according to the antient Cuſtome of <hi>England</hi> of the Members that laſt ſat are living, they are and unavoydably muſt and will be the Lawfull and Supreame Legiſlative Authority of theſe Nations; And therefore not to trouble your Lordſhip any further, but hoping according to the duty of your place, and the truſt re<g ref="char:EOLhyphen"/>poſed in you, being Lawfully called to ſo high and Honourable place and Seat of Authority, your Lordſhip will ſpeedily uſe all Lawfull wayes and means for reſtoring this Parliament to the ſafe and free exerciſe, and diſcharge of their truſt for the ends aforeſaid, which we judge will undoubtedly be by the aſſiſting hand of Gods providence, the only meanes under Heaven to heale all our breaches, put an end to all our publique diſtractions, which at preſent is ready even to ſwallow us up in a Flood of generall Confuſion: Free us from that Bondage and Slavery the people of theſe Nations for many years paſt, but eſpecially at prefent are like to undergoe by forceable impriſoning their perſons, and violent ſeizing upon and taking away their Eſtates contrary unto, and againſt the known and good Laws of this Commonwealth, and that this poor miſerable and devided Nation but once flouriſhing, and now a ſcorne and reproach to all Nations, by reaſon of our diſtractions and often changes may as formerly againe become a terror to all the Nations round about it, and your Lordſhip may be confident that no aſſembly of men in theſe Nations <hi>Rebus ſic Scantibus</hi> can be better confided in, to ſecure the promiſes unto us then this Parliament, who have all along been and now are ingaged for the ſame things; And let not your Lordſhip and the City of <hi>London</hi> think that they ſhall be alone in this good work, for all the Counties in <hi>England</hi> and <hi>VVales</hi> are ingaged in the ſame as by the Remonſtrance your Lordſhip may underſtand, and within very few dayes will be ready to lend their aſſiſtance thereto, ſo that having Nakedly and plainly laid before your <hi>Lordſhip</hi> the hearts and ſpirits of the people ingaged in this Remonſtrance, and their good affections to this work, we doubt not but that your Lordſhip and this City will be ready and willing to do the ſame, that ſo this good work may if poſſible without the expence of blood be ſoon finiſhed, and all juſt intereſts thereby fully ſatisfied, and all perſons have cauſe to rejoyce that they can once more ſet down under the wholſome Vines of peace and ſafety.</p>
+            <closer>
+               <signed>Signed in the name, and by the conſent and appointment of the Committe. <hi>JOHN FREEMAN,</hi> Clerk to the ſaid Committee.</signed>
+            </closer>
+            <trailer>For the Right Honorable <hi>Thomas Allyn,</hi> Lord Mayor of the City of<hi>London.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed by <hi>I. C.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
